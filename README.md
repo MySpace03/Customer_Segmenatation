@@ -1,5 +1,6 @@
 # Customer_Segmenatation
 Introduction
+
 Customer Segmentation is the process of dividing the customers into groups based on common characteristics, so companies can market to  each group effectively and appropriately. 
 
 In business to consumer marketing companies often segment customers according to demographics that include; 
