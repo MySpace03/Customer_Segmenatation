@@ -1,5 +1,5 @@
 # Customer_Segmenatation
-Introduction
+##**Introduction**
 
 Customer Segmentation is the process of dividing the customers into groups based on common characteristics, so companies can market to  each group effectively and appropriately. 
 
@@ -11,7 +11,7 @@ Segmentation allows marketers to better tailor their marketing efforts to variou
 2.Identify ways to improve products or service opportunities.
 3.Establish better customer relationships.
 
-Methods and Modules
+#**Methods and Modules**
 The modules used in the project are as follows;
 
 NumPy: - It is an open source package which helps in performing mathematical and logical operations. It stands for numerical python.
@@ -24,12 +24,12 @@ Seaborn: - It is also a data visualization library based on matplotlib, it provi
 
 Sklearn: - It is the most useful library for machine learning in python. It helps in classification, Regression, clustering and dimensionality reduction.
 
-Discussion
+##**Discussion**
 Customer segmentation  has been trending topic for many industries as it helps in making profitable decision for the company. Many firms had started using this method but the algorithm used (GMM, DBSCAN etc.) are less accurate which can cause problem. 
 
 We have used KMeans clustering algorithm along with WCSS which is a better approach as it tells us the appropriate number of clusters according the data given. KMeans being one of the newest algorithms, has a comparatively better accuracy and a lower time complexity.
 
-Result
+#**Result**
 We obtained results in two stages;
 
 We used WCSS (Within cluster sum of squares) formula in order to find optimal number of clusters according the our data. The result came out to be 5 clusters. 
